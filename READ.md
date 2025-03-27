@@ -1,7 +1,7 @@
 "# Titanic-Analysis" 
 
 ## 1 - Correlation Map
-![image](https://github.com/user-attachments/assets/09aa72c5-a65b-4faf-9bf0-c7504fcd94f5)
+<img src="https://github.com/user-attachments/assets/09aa72c5-a65b-4faf-9bf0-c7504fcd94f5" alt="corr">
 
 ## 2 - Survival Count
 ![image](https://github.com/user-attachments/assets/14e65ce1-b777-4944-927c-10cff4c80254)
