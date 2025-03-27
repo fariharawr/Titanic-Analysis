@@ -1,4 +1,5 @@
-"# Titanic-Analysis" 
+# Titanic-Analysis
+## Analytics on Titanic dataset for Python for Data Science class, including correlation heatmap, age and fare distribution, and hypothesis testing on whether fare affects survivals.
 
 ## 1 - Correlation Map
 <img src="https://github.com/user-attachments/assets/09aa72c5-a65b-4faf-9bf0-c7504fcd94f5" alt="corr">
